@@ -13,4 +13,4 @@ message.member.addRole(role);
 })
 
 
-bot.login('NjI2NzUzODEwMTk4NTYwNzY5.XYywpA.0Xe89NuQ7XHgCj_Arm-6RUWQTPM');
+bot.login('NjI2NzUzODEwMTk4NTYwNzY5.XYy-rQ.RhGWlBYIK46B3VQUF-Uncg7C6RM');
